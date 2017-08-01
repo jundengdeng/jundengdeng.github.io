@@ -1,0 +1,4 @@
+session_test_id,email,age,gender,feedback,trial_id,rating_reference,rating_non_reference,rating_reference_score,rating_non_reference_score,rating_time,choice_comment
+complete_test,df,30,male,,bs1116_nowav,reference,C2,5,5,24797,
+complete_test,df,30,male,,bs1116_nowav,reference,C3,5,5,2142,
+complete_test,df,30,male,,bs1116_nowav,reference,C1,5,5,1885,

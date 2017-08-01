@@ -1,0 +1,7 @@
+session_test_id,email,age,gender,feedback,trial_id,choice_reference,choice_non_reference,choice_answer,choice_time,choice_comment
+complete_test,df,30,male,,ABN,reference,C2,correct,37917,
+complete_test,df,30,male,,ABN,reference,C1,correct,5484,
+complete_test,df,30,male,,ABN,reference,C3,correct,1976,
+complete_test,df,30,male,,AB_noloop,reference,C2,incorrect,5115,
+complete_test,df,30,male,,AB_noloop,reference,C3,correct,2212,
+complete_test,df,30,male,,AB_noloop,reference,C1,incorrect,2319,

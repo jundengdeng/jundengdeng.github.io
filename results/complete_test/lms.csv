@@ -1,0 +1,5 @@
+session_test_id,email,age,gender,feedback,trial_id,stimuli_rating,stimuli,rating_time
+complete_test,df,30,male,,lms2," not a lot ",C1,2512
+complete_test,df,30,male,,lms1," not a lot ",C2,3802
+complete_test,df,30,male,,lms1," not at all ",C1,3802
+complete_test,df,30,male,,lms1," not a lot ",C3,3802

@@ -1,0 +1,4 @@
+session_test_id,trial_id,rating_reference,rating_non_reference,rating_reference_score,rating_non_reference_score,rating_time,choice_comment
+bs1116_noloop_nowav,trial2,reference,C2,3.48,1,36075,
+bs1116_noloop_nowav,trial2,reference,C1,3.92,1.96,23139,
+bs1116_noloop_nowav,trial2,reference,C3,3.52,3.92,10341,
